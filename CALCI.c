@@ -1,10 +1,5 @@
-/*
-    Scientific Calculator Program (in C)
+// Scientific Calculator Program (in C)
 
-    Made by:
-        Shreeyanshi Gautam
-        Tanya Gupta
-*/
 
 // Header Files
 #include <stdio.h>
